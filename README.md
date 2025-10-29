@@ -4,7 +4,7 @@
 
 
 # SF2M模型
-      runner/src/models/cfm_module.py        30      class CFMLitModule(LightningModule)             SF2M的父类
+      runner/src/models/cfm_module.py     30      class CFMLitModule(LightningModule)             SF2M的父类
                                           717     class SBCFMLitModule(CFMLitModule)
                                           738     class SF2MLitModule(CFMLitModule)               SB+FM文章的模型SF2M
                                     <!-- 1088    class OneWaySF2MLitModule(SF2MLitModule)   SF2M其余演化版本-->
